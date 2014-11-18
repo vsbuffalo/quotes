@@ -42,3 +42,8 @@ The tendency of modern scientific teaching is to neglect the great books, to lay
 far too much stress upon relatively unimportant modern work, and to present
 masses of detail of doubtful truth and questionable weight in such a way as to
 obscure principles. ::: R.A. Fisher
+
+Mathematics is not a careful march down a well-cleared highway, but a journey
+into a strange wilderness, where the explorers often get lost. Rigour should be
+a signal to the historian that the maps have been made, and the real explorers
+have gone elsewhere. ::: William S. Anglin
