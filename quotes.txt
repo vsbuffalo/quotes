@@ -59,3 +59,27 @@ Mark Twain
 
 The greatest challenge to any thinker is stating the problem in a way that will
 allow a solution. ::: Bertrand Russell
+
+As a mathematical discipline travels far from its empirical source, or still
+more, if it is a second and third generation only indirectly inspired from
+ideas coming from 'reality', it is beset with very grave dangers. It becomes
+more and more purely aestheticizing, more and more purely l'art pour l'art.
+This need not be bad, if the field is surrounded by correlated subjects, which
+still have closer empirical connections, or if the discipline is under the
+influence of men with an exceptionally well-developed taste. But there is a
+grave danger that the subject will develop along the line of least resistance,
+that the stream, so far from its source, will separate into a multitude of
+insignificant branches, and that the discipline will become a disorganized mass
+of details and complexities. In other words, at a great distance from its
+empirical source, or after much 'abstract' inbreeding, a mathematical subject
+is in danger of degeneration. At the inception the style is usually classical;
+when it shows signs of becoming baroque the danger signal is up. It would be
+easy to give examples, to trace specific evolutions into the baroque and the
+very high baroque, but this would be too technical. In any event, whenever this
+stage is reached, the only remedy seems to me to be the rejuvenating return to
+the source: the reinjection of more or less directly empirical ideas. I am
+convinced that this is a necessary condition to conserve the freshness and the
+vitality of the subject, and that this will remain so in the future. ::: John
+von Neumann
+
+An ounce of algebra is worth a ton of verbal argument. ::: J.B.S Haldane
