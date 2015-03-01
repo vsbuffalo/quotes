@@ -103,6 +103,10 @@ learned rapidly that, to a far greater extent than we had dared to think, one
 could use data to deal both with the uncertainties of nature and with the
 uncertainties of data-based results. ::: John Tukey
 
+Far better an approximate answer to the right question, which is often vague,
+than an exact answer to the wrong question, which can always be made precise.
+::: John Tukey, 1962
+
 I know of scarcely anything so apt to impress the imagination as the wonderful
 form of cosmic order expressed by the law of frequency of error [the Gaussian
 distribution]. The law would have been personified by the Greeks if they had
