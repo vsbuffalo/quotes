@@ -89,3 +89,24 @@ process. ::: George E. P. Box
 
 To do science is to search for repeated patterns, not simply to accumulate the
 facts. :::  Robert MacArthur, 1972
+
+You go to war with the data you have, not the data you wish you had. :::
+Richard McElreath
+
+Just about five-eighths (of a century) ago there was a sharp discontinuity:
+algebra began to appear on the pages of the statistician's, journals. The
+pioneering work of Karl Pearson spread out in many directions; that of Student
+spread out in many others, including the analysis of economic time series.
+Since that time the tools of the statistician have been sharpened on the
+grindstone of algebra and hammered out on the anvil of mathematical models. We
+learned rapidly that, to a far greater extent than we had dared to think, one
+could use data to deal both with the uncertainties of nature and with the
+uncertainties of data-based results. ::: John Tukey
+
+I know of scarcely anything so apt to impress the imagination as the wonderful
+form of cosmic order expressed by the law of frequency of error [the Gaussian
+distribution]. The law would have been personified by the Greeks if they had
+known of it. It reigns with serenity and complete self-effacement amidst the
+wildest confusion.  The larger the mob, the greater the apparent anarchy, the
+more perfect is its sway. It is the supreme law of unreason. ::: Sir Francis
+Galton, 1889
