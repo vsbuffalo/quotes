@@ -122,3 +122,18 @@ differently tenanted. ::: Charles Darwin
 
 Regularization saves your bacon. ::: Richard McElreath
 
+I believe that, in the end, it is *applications* which justify mathematics. The
+'artistic' justification of pure mathematics in terms of intrinsic qualities
+like elegance and generality rings rather hollow in my ears when I compare the
+best mathematics with the greatest music. ::: L. C. G. Rogers and Davis Williams
+in *Diffusions, Markov Processes, and Martingales*.
+
+But I am very poorly today and very stupid and hate everybody and everything.
+::: Charles Darwin
+
+If you want to do something really new, go back to points in the past where
+there was a neat idea that never really caught on, and follow the path of that
+idea to see where it leads. ::: approximate quote from Marvin Minksy, from http://aurellem.org/thoughts/html/sussman-reading-list.html
+
+Those who read own the world, and those who watch television lose it. ::: Werner Herzog
+
