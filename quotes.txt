@@ -133,7 +133,20 @@ But I am very poorly today and very stupid and hate everybody and everything.
 
 If you want to do something really new, go back to points in the past where
 there was a neat idea that never really caught on, and follow the path of that
-idea to see where it leads. ::: approximate quote from Marvin Minksy, from http://aurellem.org/thoughts/html/sussman-reading-list.html
+idea to see where it leads. ::: approximate quote from Marvin Minksy, from
+http://aurellem.org/thoughts/html/sussman-reading-list.html
 
-Those who read own the world, and those who watch television lose it. ::: Werner Herzog
+It is difficult to imagine that the blind play of genes could produce man. :::
+G.C. Williams.
 
+Those who read own the world, and those who watch television lose it. ::: Werner
+Herzog
+
+Hence, as more individuals are produced than can possibly survive, there must
+in every case be a struggle for existence, either one individual with another
+of the same species, or with the individuals of distinct species, or with the
+physical conditions of life. It is the doctrine of Malthus applied with
+manifold force to the whole animal and vegetable kingdoms; for in this case
+there can be no artificial increase of food, and no prudential restraint from
+marriage. Although some species may be now increasing, more or less rapidly, in
+numbers, all cannot do so, for the world would not hold them. ::: Charles Darwin (The Origin)
