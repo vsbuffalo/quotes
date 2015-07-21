@@ -155,3 +155,5 @@ marriage. Although some species may be now increasing, more or less rapidly, in
 numbers, all cannot do so, for the world would not hold them. ::: Charles Darwin (The Origin)
 
 
+Science is what we understand well enough to explain to a computer. Art is
+everything else we do. ::: Donald E. Knuth (in the forward of A = B)
