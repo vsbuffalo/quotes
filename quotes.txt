@@ -157,3 +157,10 @@ numbers, all cannot do so, for the world would not hold them. ::: Charles Darwin
 
 Science is what we understand well enough to explain to a computer. Art is
 everything else we do. ::: Donald E. Knuth (in the forward of A = B)
+
+Inventive genius requires pleasurable mental activity as a condition for its
+vigorous exercise. 'Necessity is the mother of invention' is a silly proverb.
+'Necessity is the mother of futile dodges' is much nearer to the truth. The
+basis of the growth of modern invention is science, and science is almost
+wholly the outgrowth of pleasurable intellectual curiosity. - A. N. Whitehead
+(quote in Concrete Mathematics)
