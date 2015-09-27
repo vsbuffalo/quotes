@@ -1,5 +1,8 @@
-Let me never fall into the vulgar mistake of dreaming that I am persecuted whenever I am contradicted. ::: Ralph Waldo Emerson
-I don't wait for moods. You accomplish nothing if you do that. Your mind must know it has got to get down to work. ::: Pearl S. Buck
+Let me never fall into the vulgar mistake of dreaming that I am persecuted
+whenever I am contradicted. ::: Ralph Waldo Emerson
+
+I don't wait for moods. You accomplish nothing if you do that. Your mind must
+know it has got to get down to work. ::: Pearl S. Buck
 
 Scientists become method oriented rather than problem oriented. Stop doing
 experiments for a while and think. ::: Platt (1964), quoted in Pigliucci
@@ -8,7 +11,8 @@ experiments for a while and think. ::: Platt (1964), quoted in Pigliucci
 Even the most practical man of affairs is usually in the thrall of the ideas of
 some long-dead economist. ::: John Maynard Keynes
 
-Academics fight over resources much more readily than over principles. ::: https://twitter.com/molpopgen/status/512340805923508224
+Academics fight over resources much more readily than over principles. :::
+https://twitter.com/molpopgen/status/512340805923508224
 
 Must we geneticists become bacteriologists, physiological chemists and
 physicists, simultaneously with being zoologists and botanists? Let us hope so.
@@ -173,3 +177,7 @@ of as represented by continuous fields, governed by partial differential
 equations, and not capable of any mechanical interpretation. This change in the
 conception of Reality is the most profound and the most fruitful that physics
 has experienced since the time of Newton. ::: Einstein
+
+Thought is only a flash between two long nights, but this flash is everything.
+::: Henri Poincare
+
