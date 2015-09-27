@@ -164,3 +164,12 @@ vigorous exercise. 'Necessity is the mother of invention' is a silly proverb.
 basis of the growth of modern invention is science, and science is almost
 wholly the outgrowth of pleasurable intellectual curiosity. - A. N. Whitehead
 (quote in Concrete Mathematics)
+
+We may say that, before Maxwell, Physical Reality, in so far as it was to
+represent the process of nature, was thought of as consisting in material
+particles, whose variations consist only in movements governed by partial
+differential equations. Since Maxwell's time, Physical Reality has been thought
+of as represented by continuous fields, governed by partial differential
+equations, and not capable of any mechanical interpretation. This change in the
+conception of Reality is the most profound and the most fruitful that physics
+has experienced since the time of Newton. ::: Einstein
