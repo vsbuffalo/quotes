@@ -222,3 +222,36 @@ Using R is a bit akin to smoking. The beginning is difficult, one may get
 headaches and even gag the first few times. But in the long run, it becomes
 pleasurable and even addictive. Yet, deep down, for those willing to be honest,
 there is something not fully healthy in it. ::: Francois Pinard
+
+A genuine understanding of the key concepts and principles of the probability
+theory is essential for any work in stochastic processes. These concepts are
+simple, but treacherously so. There is probably no branch of mathematics in
+which it is so easy to advance plausible sounding arguments that are in fact
+wrong! ::: Cox & Davison, 1994, p. 25
+
+Maybe it’s because I was raised as a Protestant and became an environmentalist,
+but I’ve long been struck by the spiritual kinship of environmentalism and New
+England Puritanism. Both belief systems are haunted by the feeling that simply
+to be human is to be guilty. In the case of environmentalism, the feeling is
+grounded in scientific fact. ::: Jonathan Franzen,
+http://www.newyorker.com/magazine/2015/04/06/carbon-capture
+
+What is found in biology is mechanisms, mechanisms built with chemical
+components and that are often modified by other, later, mechanisms added to the
+earlier ones. While Occam's razor is a useful tool in the physical sciences, it
+can be a very dangerous implement in biology. It is thus very rash to use
+simplicity and elegance as a guide in biological research. While DNA could be
+claimed to be both simple and elegant, it must be remembered that DNA almost
+certainly originated fairly close to the origin of life when things were
+necessarily simple or they would not have got going.  Biologists must
+constantly keep in mind that what they see was not designed, but rather
+evolved. It might be thought, therefore, that evolutionary arguments would play
+a large part in guiding biological research, but this is far from the case. It
+is difficult enough to study what is happening now. To figure out exactly what
+happened in evolution is even more difficult. Thus evolutionary achievements
+can be used as hints to suggest possible lines of research, but it is highly
+dangerous to trust them too much. It is all too easy to make mistaken
+inferences unless the process involved is already very well understood. ::: Francis Crick
+
+
+
