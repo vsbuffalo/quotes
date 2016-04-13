@@ -253,5 +253,68 @@ can be used as hints to suggest possible lines of research, but it is highly
 dangerous to trust them too much. It is all too easy to make mistaken
 inferences unless the process involved is already very well understood. ::: Francis Crick
 
+Ronald Fisher in England was an advocate of eugenics, and both he and Sewall
+Wright in America formulated the principle of natural selection as a process of
+increasing, from generation to generation, the average fitness of members of a
+breeding population. Yet these formulations make no predictions about a general
+progress of species. This may seem odd, since the process of natural selection
+is supposed to make organisms more fit for their environment. So why does
+evolution not result in a general increase of the fitness of life to the
+external world? Wouldn’t that be progress? The reason that there is no general
+progress is that the environments in which particular species live are
+themselves changing and, relative to the organisms, are usually getting worse.
+So most of natural selection is concerned with keeping up. Certainly quite new
+kinds of making a living have been occasionally exploited in evolution, but
+every species eventually becomes extinct (99.9 percent already have) and no way
+of making a living will be around forever.4 Judging from the fossil record a
+typical mammalian species lasts roughly ten million years, so we might expect
+to last another nine million unless, as a consequence of our immense ability to
+manipulate the physical world, we either extinguish ourselves a good deal
+sooner or invent some extraordinary way to significantly postpone the
+inevitable. ::: Richard Lewontin, http://www.nybooks.com/articles/2005/10/20/the-wars-over-evolution/
 
+"Great" scientists are those who, like Newton, make laws that apply
+universally, while lesser ones spend their lives dissecting particular
+phenomena. ::: Richard Lewontin 
 
+That a theoretical formulation is desirable because it makes it easier and more
+efficient to write more articles and books giving simple explanations for
+phenomena that are complex and diverse seems a strange justification for work
+that claims to be scientific. It confuses "understanding" in the weak sense of
+making coherent and comprehensible statements about the real world with
+“understanding” that means making correct statements about nature. It makes the
+investigation of material nature into an intellectual game, disarming us in our
+struggle to maintain science against mysticism. ::: Richard Lewontin
+
+It is, I think, particularly in times of acknowledged crisis that scientists
+have turned to philosophical analysis as a device for unlocking the riddles of
+their field. ::: Kuhn, 1970, p. 88
+
+If you’re thinking without writing, you only think you’re thinking. ::: Leslie
+Lamport
+
+In a sexual population, each genotype is unique, never to recur. The life
+expectancy of a genotype is a single generation. In contrast, the population of
+genes endures. ::: James F. Crow
+
+"It is an old maxim of mine," said Holmes, "that when you have excluded the
+impossible, whatever remains, however improbable, must be the truth."
+"Perhaps," said Watson, skeptically, "You may have convinced me as to the
+motive, but you are yet to explain how it is done." ::: Sherlock Holmes, The
+Sign of Four
+
+If the central dogma is true, and if it is also true that nucleic acids are the
+only means whereby information is transmitted between generations, this has
+crucial implications for evolution. It would imply that all evolutionary
+novelty requires changes in nucleic acids, and that these changes – mutations –
+are essentially accidental and non-adaptive in nature. Changes elsewhere – in
+the egg cytoplasm, in materials transmitted through the placenta, in the
+mother's milk – might alter the development of the child, but, unless the
+changes were in nucleic acids, they would have no long-term evolutionary
+effects. ::: Maynard Smith
+
+Molecular clocks are like Santa Claus: everyone wants to believe in them, but
+no one really does. ::: Sanderson (2015), H. Brad Shaffer, pers. comm.
+
+It is generally accepted that the behaviour characteristic of a species is
+just as much the product of evolution as the morphology. ::: W.D. Hamilton
