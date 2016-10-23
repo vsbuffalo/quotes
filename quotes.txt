@@ -372,3 +372,8 @@ domesticated. ::: Charles Darwin, 1871
 
 It is suggested that this loss of fitness is the price paid by a species for
 its capacity for further evolution. ::: Haldane, 1937, p. 349
+
+Yes, Dan [Hartl], [you can join my lab] provided you understand that population
+genetics is a recondite field that will never be of great interest except to a
+small group of specialists. ::: James Crow to Dan Hartl,
+http://www.nytimes.com/2012/01/11/science/james-f-crow-population-genetics-pioneer-dies-at-95.html
