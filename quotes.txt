@@ -354,8 +354,6 @@ question. That is, the question was never really, How much genetic variation is
 there…? but rather, What is the nature of genetic variation for fitness in a
 population? ::: RC Lewontin, 1974; p. x
 
-If you’re thinking without writing, you only think you’re thinking. ::: Leslie
-Lamport
 
 For my team, I'll take the younger Darwin of the first edition, when the swing
 of his selectionist bat was true. ::: David Queller, "The Spaniels of St. Marx
@@ -365,10 +363,8 @@ As Samuel Butler so truly said: 'To me it seems that the "Origin of Variation",
 whatever it is, is the only true "Origin of Species".' :: W. Bateson, 1909 (in
 R.A. Fisher, 1930)
 
-
 Man in many respects may be compared with those animals which have long been
 domesticated. ::: Charles Darwin, 1871
-
 
 It is suggested that this loss of fitness is the price paid by a species for
 its capacity for further evolution. ::: Haldane, 1937, p. 349
@@ -377,3 +373,16 @@ Yes, Dan [Hartl], [you can join my lab] provided you understand that population
 genetics is a recondite field that will never be of great interest except to a
 small group of specialists. ::: James Crow to Dan Hartl,
 http://www.nytimes.com/2012/01/11/science/james-f-crow-population-genetics-pioneer-dies-at-95.html
+
+Speaking of truly brilliant people fucking up, let's start with Galton. :::
+Michael Turelli
+
+Any misfortune 'that lies outside the sphere of choice' should be considered an
+opportunity to strengthen our resolve, not an excuse to weaken it. :::
+https://aeon.co/essays/why-stoicism-is-one-of-the-best-mind-hacks-ever-devised
+
+This procedure is based on the principle of ergodicity, which says that
+averaging a random variable of a station- ary stochastic process over time
+leads to the same result as averaging this quantity at any given time point
+over different realizations of the process. ::: Kim and Stephan, 2000; nice
+definition of ergodicity.
