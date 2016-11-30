@@ -382,7 +382,10 @@ opportunity to strengthen our resolve, not an excuse to weaken it. :::
 https://aeon.co/essays/why-stoicism-is-one-of-the-best-mind-hacks-ever-devised
 
 This procedure is based on the principle of ergodicity, which says that
-averaging a random variable of a station- ary stochastic process over time
+averaging a random variable of a stationary stochastic process over time
 leads to the same result as averaging this quantity at any given time point
 over different realizations of the process. ::: Kim and Stephan, 2000; nice
 definition of ergodicity.
+
+
+A scientific man ought to have no wishes, no affections, - a mere heart of stone. ::: Charles Darwin
